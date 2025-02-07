@@ -1,3 +1,13 @@
+"""
+
+THIS FILE IS NOT WORKİNG
+
+I'M STILL WORKİNG ON IT
+
+
+"""
+
+
 import numpy as np
 import pyaudio
 import wave
